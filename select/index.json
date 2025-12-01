@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "フラレガイガール / さユり full covered by 春茶",
+  "base_artist": "春茶",
+  "createdAt": "2025-12-01T13:53:47.218259Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フラレガイガール",
+      "artist": "Sayuri",
+      "has_synced": false,
+      "path": "select/01_フラレガイガール_Sayuri.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "フラレガイガール",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/02_フラレガイガール_さユり.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "フラレガイガール",
+      "artist": "Sayuri",
+      "has_synced": true,
+      "path": "select/03_フラレガイガール_Sayuri.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "フラレガイガール",
+      "artist": "さユり",
+      "has_synced": true,
+      "path": "select/04_フラレガイガール_さユり.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "フラレガイガール",
+      "artist": "さゆり",
+      "has_synced": true,
+      "path": "select/05_フラレガイガール_さゆり.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Furaregai Girl [フラレガイガール]",
+      "artist": "Sayuri [さユり]",
+      "has_synced": true,
+      "path": "select/06_Furaregai_Girl_[フラレガイガール]_Sayuri_[さユり].lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "フラレガイガール",
+      "artist": "さユり",
+      "has_synced": true,
+      "path": "select/07_フラレガイガール_さユり.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "フラレガイガール-「め」弾き語りver.-",
+      "artist": "さユり",
+      "has_synced": true,
+      "path": "select/08_フラレガイガール-「め」弾き語りver.-_さユり.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "フラレガイガール-「め」弾き語りver.-",
+      "artist": "Sayuri",
+      "has_synced": true,
+      "path": "select/09_フラレガイガール-「め」弾き語りver.-_Sayuri.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フラレガイガール",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_01_フラレガイガール_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "フラレガイガール",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_02_フラレガイガール_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "フラレガイガール",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_03_フラレガイガール_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "フラレガイガール",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_04_フラレガイガール_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "フラレガイガール",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_05_フラレガイガール_さユり.txt"
+    }
+  ]
+}
